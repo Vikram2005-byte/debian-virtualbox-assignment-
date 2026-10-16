@@ -22,7 +22,7 @@ This repository contains my CSS First Assignment report on installing and config
 - Documented the configuration and screenshots.
 
 ## Assignment Report
-See [`debian-virtualbox-assignment.pdf`](./debian-virtualbox-assignment.pdf)
+See [`debian-virtualbox-assignment.pdf`](./debian-virtualbox-assignment.pdf).
 
 ## Author
 Vikram Aditya Kumar Suman
