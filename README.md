@@ -1,26 +1,23 @@
-# Debian Virtual Machine Setup
+# Debian VirtualBox Setup — Coursework
 
-**CSS First Assignment — Debian GNU/Linux 10.11.0 (64-bit)**
+This repository contains coursework documenting the setup and first launch of a supplied Debian virtual machine in Oracle VirtualBox.
 
-This repository contains the four-page assignment report documenting the setup and basic startup of a pre-configured Debian virtual machine in Oracle VirtualBox.
+## Environment recorded in the report
 
-## Environment
-- **Virtualization platform:** Oracle VirtualBox
-- **Guest operating system:** Debian GNU/Linux 10.11.0 (64-bit)
-- **RAM:** 2 GB
-- **Virtual processors:** 2
+- **Virtualization:** Oracle VirtualBox
+- **Guest OS:** Debian GNU/Linux 10.11.0 (64-bit)
+- **Memory:** 2 GB RAM
+- **Processors:** 2 virtual CPUs
 - **Virtual disk:** 512 GB virtual capacity, dynamically allocated
-- **Network adapter:** NAT
+- **Networking:** NAT
 
-## Work documented
-- Loaded the provided Debian VirtualBox image
-- Reviewed virtual machine settings
-- Troubleshot an initial black screen
-- Started the GNOME desktop
-- Included screenshots and a screen-recording link in the report
+The report covers loading the provided VM, checking its settings, troubleshooting an initial black screen, and reaching the GNOME desktop. Screenshots and a screen-recording reference are included in the assignment document.
 
-## Assignment report
-[Open the assignment PDF](./24beccs60_assigment.pdf)
+## Documents
 
-## Author
-Vikram Aditya Kumar Suman
+- [Debian VM setup report](./24beccs60_assigment.pdf)
+- [V Semester CSS first assignment](./V%20Sem%20CSS%20First%20Assignment.pdf)
+
+## Notes
+
+The details above describe the environment recorded for this assignment; they are not a general recommendation for new Debian installations. Debian 10 is an older release, so use a currently supported release for new work unless a course specifically requires this version.
